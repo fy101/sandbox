@@ -1,5 +1,8 @@
 {
-      "Name": "Celtra’s Creative Management Platform",
-      "Image": "https://goo.gl/2tUhJA",
-      "Homepage": "https://www.celtra.com"
+      "Product 1 Description": "Pinot Noir",
+      "Product 1 Price": "$18.99",
+      "Product 1 Image": "https://akimages.shoplocal.com/dyn_li/200.0.90.0/Retailers/Publix/191205_02_MA_4PG_WineWr_img_1472147211.jpg",
+      "Product 2 Description": "Chardonnay",
+      "Product 2 Price": "$15.99",
+      "Product 2 Image": "https://akimages.shoplocal.com/dyn_li/200.0.90.0/Retailers/Publix/191205_02_JL_img_687870331.jpg"
     }
